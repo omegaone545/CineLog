@@ -1,0 +1,23 @@
+{
+  "id": "playlog",
+  "name": "PlayLog",
+  "tagline": "Tu historial de juegos, siempre contigo",
+  "description": "PlayLog es la aplicación perfecta para llevar un registro de toda tu vida gamer. Organiza tu biblioteca de videojuegos, registra las horas que juegas, puntúa tus títulos favoritos y consulta estadísticas de tu progreso en un solo lugar.\n\nAñade juegos a tu colección, clasifícalos por estado, plataforma o formato, guarda tus sesiones de juego y descubre cuáles son los juegos a los que más tiempo has dedicado. También podrás consultar tus logros, listas personalizadas y un perfil con toda tu actividad.\n\nCon PlayLog tendrás siempre tu historial de juegos, tus valoraciones y tu progreso, todo sincronizado en una experiencia sencilla, rápida y con un diseño pensado para jugadores.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/media_1789397415375.jpg",
+  "version": "1.0.0",
+  "downloads": "50K+",
+  "rating": 4.5,
+  "ratingCount": "8,900",
+  "classification": "+12 años",
+  "apkUrl": "https://github.com/omegaone545/PlayLog/releases/latest/download/androidApp-debug.apk",
+  "category": "Salud y fitness",
+  "isFeatured": false,
+  "screenshots": [
+    "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/Captura1.png",
+    "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/Captura2.png",
+    "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/Captura3.png",
+    "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/Captura4.png"
+    
+  ],
+ "whatsNew": ""
+}
