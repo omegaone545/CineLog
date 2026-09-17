@@ -3,7 +3,7 @@
   "name": "CineLog",
   "tagline": "Todo lo que ves, siempre contigo",
   "description": "CineLog es la aplicación perfecta para llevar un registro de todas las películas y series que ves. Organiza tu biblioteca, marca tus títulos como vistos, pendientes o en pausa, puntúa tus películas y series favoritas y consulta todas tus estadísticas en un solo lugar.\n\nAñade películas y series a tu colección, consulta información detallada sobre cada título, controla tu progreso episodio a episodio y guarda tus propias valoraciones. También podrás organizar tus contenidos mediante listas personalizadas, descubrir los títulos a los que más tiempo has dedicado y consultar tu historial de visualización.\n\nCon CineLog tendrás siempre contigo tu biblioteca cinematográfica, tus valoraciones, tu progreso y tus estadísticas, todo reunido en una experiencia sencilla, rápida y con un diseño pensado para los amantes del cine y las series.",
-  "iconUrl": "https://raw.githubusercontent.com/omegaone545/PlayLog/refs/heads/main/media_1789397415375.jpg",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/CineLog/refs/heads/main/Logo.png",
   "version": "1.0.0",
   "downloads": "50K+",
   "rating": 4.5,
